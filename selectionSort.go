@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func SelectionSort() {
 
 	arr := []int{25, 5, 19, 45, 3, 57}
 	n := len(arr)
